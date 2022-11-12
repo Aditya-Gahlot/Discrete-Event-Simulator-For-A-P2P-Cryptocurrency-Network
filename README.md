@@ -47,11 +47,11 @@ In the source directory, run: `python run.py [n] [z] [tm] [bm]`
 
 Where,
 
-      n is the number of nodes
+      `n` is the number of nodes
       
-      z is the fraction of slow nodes
+      `z` is the fraction of slow nodes
       
-      tm, bm are the mean transaction & block interarrival times respectively
+      `tm`, `bm` are the mean transaction & block interarrival times respectively
       
 By default, simulations run for a maximum of 1000 events. To change that pass `--until` parameter and to suppress printing of event log use `-q`:
 
@@ -62,3 +62,16 @@ Generated charts are stored in output directory.
 ## Output Screenshot
 ----------------------------------------------------------------
 
+
+
+## Teams Members Name
+------------------------------------------------------------------------------
+
+ * [@Vikas](https://github.com/Vikas2201)
+ * [@Aditya](https://github.com/Aditya-Gahlot) 
+ * [@Abhijeet Singh](https://github.com/abhijeetSingh131)
+
+## Help Me Improve
+---------------------------------------------------------------------------------------
+
+Hello Reader if you find any bug please consider raising issue I will address them asap.
