@@ -75,3 +75,5 @@ Generated charts are stored in output directory.
 ---------------------------------------------------------------------------------------
 
 Hello Reader if you find any bug please consider raising issue I will address them asap.
+
+Do ⭐ the repository , if it helped you in anyway.
