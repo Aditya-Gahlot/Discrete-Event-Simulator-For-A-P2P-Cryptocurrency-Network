@@ -64,6 +64,8 @@ Generated charts are stored in output directory.
 ## Output Screenshot
 ----------------------------------------------------------------
 
+![Output1](https://user-images.githubusercontent.com/76476273/201505819-1183afe3-fda4-4dce-a4f0-bc17a9e3f076.png)
+![Output2](https://user-images.githubusercontent.com/76476273/201505818-180b9656-4c28-4d19-8299-f7a78576972f.png)
 
 
 ## Teams Members Name
