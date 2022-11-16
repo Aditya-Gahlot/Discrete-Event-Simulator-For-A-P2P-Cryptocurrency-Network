@@ -6,7 +6,7 @@ In this repository we will build our own discrete event simulator(DES) for a P2P
 This repository consists Project `Discrete Event Simulator For A P2P Cryptocurrency Network` related to the course "Simulation And Modeling" (CMCSE52) Under the Guidance of `Surbhi Sharam` and [@Riya Goyal](https://www.linkedin.com/in/riya-goyal-4765687b/)
 
 # Problem Statement
---------------------------------------------------
+----------------------------------------------------------
 
 A discrete event simulator(DES) for a P2P cryptocurrency network.
 
@@ -29,7 +29,7 @@ time can be set as a parameter of the simulator.
 * Each node maintains a tree of all blockchains heard since the start of the simulation. The node stores the time of arrival of every block in its tree. This information is written to a file at the end of the simulation.
 
 ## Implementation Details
-------------------------------------------------
+-------------------------------------------------------------
 
 We have implemented the assignment in Python, and tested it on window machine. The core of the simulation is a priority queue which holds events prioritized by their
 scheduled time. There are 4 types of events: 
@@ -43,7 +43,7 @@ Since nodes keep generating events and the simulation is potentially infinite, w
 At the end of the simulation, each node dumps its blockchain tree in the DOT graph description language, which are rendered into .png images using the Graphviz tool. We also created a graph depicting the connections between nodes to visualise the network.
 
 ## How to Run the code ?
-----------------------------------------------------
+----------------------------------------------------------------
 
 In the source directory, run: `python run.py [n] [z] [tm] [bm]`
 
@@ -72,8 +72,9 @@ Generated charts are stored in output directory.
 ------------------------------------------------------------------------------
 
  * [@Vikas](https://github.com/Vikas2201)
- * [@Aditya](https://github.com/Aditya-Gahlot) 
  * [@Abhijeet Singh](https://github.com/abhijeetSingh131)
+ * [@Aditya](https://github.com/Aditya-Gahlot) 
+
 
 ## Help Me Improve
 ---------------------------------------------------------------------------------------
