@@ -1,9 +1,9 @@
 # Discrete-Event-Simulator-For-A-P2P-Cryptocurrency-Network
-----------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 In this repository we will build our own discrete event simulator(DES) for a P2P cryptocurrency network. This project can be done in groups consisting of 3 persons.
 
-This repository consists Project `Discrete Event Simulator For A P2P Cryptocurrency Network` related to the course "Simulation And Modeling" (CMCSE52) Under the Guidance of `Surbhi Sharam` and [@Riya Goyal](https://www.linkedin.com/in/riya-goyal-4765687b/)
+This repository consists Project `Discrete Event Simulator For A P2P Cryptocurrency Network` related to the course "Simulation And Modeling" (CMCSE52) Under the Guidance of `@Surbhi Sharam` and [@Riya Goyal](https://www.linkedin.com/in/riya-goyal-4765687b/)
 
 # Problem Statement
 ----------------------------------------------------------
@@ -72,8 +72,8 @@ Generated charts are stored in output directory.
 ------------------------------------------------------------------------------
 
  * [@Vikas](https://github.com/Vikas2201)
- * [@Abhijeet Singh](https://github.com/abhijeetSingh131)
  * [@Aditya](https://github.com/Aditya-Gahlot) 
+ * [@Abhijeet Singh](https://github.com/abhijeetSingh131)
 
 
 ## Help Me Improve
